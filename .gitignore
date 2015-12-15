@@ -1,0 +1,8 @@
+Procfile
+modules
+credentials/*
+venv
+build
+dist
+*.egg-info
+*~
